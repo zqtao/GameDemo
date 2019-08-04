@@ -1,0 +1,8 @@
+name: sphere
+scale: 1.0 1.0 1.0
+rotate: 1.0 1.0 1.0
+translation: 0.0 0.0 0.0
+object: sphere.obj
+vertex: vertex.glsl
+fragment: fragment.glsl
+texture: sky.tga
